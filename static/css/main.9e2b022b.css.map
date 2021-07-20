@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAEA,EACE,uBACA,8BACQ,sBACR,SACA,SAAW","file":"static/css/main.9e2b022b.css","sourcesContent":["\n\n* {\n  font-family: sans-serif;\n  -webkit-box-sizing: border-box;\n          box-sizing: border-box;\n  margin: 0;\n  padding: 0;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/App.css"],"sourceRoot":""}
